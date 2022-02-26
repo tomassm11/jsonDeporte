@@ -4,7 +4,8 @@
         "nombre": "curl de biceps",
 	"descripcion":"son los ejercicios que implican la ejercitación de dicho músculo. Como el bíceps trabaja en el giro de muñeca o contracción del brazo, es fácil inducir que los diferentes tipos de curls incluyan flexiones de brazos así como giros de muñeca.",
 	"musculo":"brazo",
-      "imagen": "https://raw.githubusercontent.com/tomassm11/jsonDeporte/main/imagenes/curl_de_biceps.jpg"},
+      "imagen": "https://raw.githubusercontent.com/tomassm11/jsonDeporte/main/imagenes/curl_de_biceps.jpg"
+},
  {
         "nombre": "curl de biceps con barra",
 	"descripcion":"Para ejecutarlo tomamos la barra, pegamos los codos a los costados de nuestro cuerpo y tiramos los codos hacia atrás y debemos subir el peso y bajarlo lentamente hasta estirar el brazo completamente. Es un excelente ejercicio porque permite añadir mucho peso y completar más serie con ayuda.",
@@ -20,24 +21,24 @@
  },
  {
         "nombre": "elevacion lateral con mancuernas",
-	"descripcion":"Tomando aire elevamos las mancuernas hasta que los brazos queden alineados con los hombros y desde allí bajamos lentamente mientras exhalamos. Las elevaciones laterales se pueden hacer con ambas manos juntas o también, alternando un brazo y otro. También puede efectuarse con poleas.",
+	"descripcion":"Tomando aire elevamos las mancuernas hasta que los brazos queden alineados con los hombros y desde allí bajamos lentamente mientras exhalamos.",
 	"musculo":"hombro",
          "imagen": "https://raw.githubusercontent.com/tomassm11/jsonDeporte/main/imagenes/elevacion_lateral_mancuernas.jpg"
 },
  {
         "nombre": "elevacion lateral en polea",
-	"descripcion":"Las elevaciones laterales en polea baja es un ejercicio que solicita principalmente la porción media del deltoides, dando ese aspecto "redondeado" a tus hombros. Esta porción está compuesta por varios haces en forma de pluma",
+	"descripcion":"Las elevaciones laterales en polea baja es un ejercicio que solicita principalmente la porción media del deltoides, dando ese aspecto "redondeado" a tus hombros",
 	"musculo":"hombro",
      "imagen": "https://raw.githubusercontent.com/tomassm11/jsonDeporte/main/imagenes/elevacion_lateral_polea.jpg"
  },
  {
         "nombre": "press militar con barra",
-	"descripcion":"Este entrenamiento se basa en levantar una barra por encima de la cabeza sin ayudarse del impulso de piernas o rodillas. Al revés, éstas se encargan solo de estabilizar el cuerpo, mientras que son el torso y la musculatura de los brazos los responsables de empujar.",
+	"descripcion":"Este entrenamiento se basa en levantar una barra por encima de la cabeza sin ayudarse del impulso de piernas o rodillas.",
 	"musculo":"hombro",
       "imagen": "https://raw.githubusercontent.com/tomassm11/jsonDeporte/main/imagenes/press_militar_barra.jpg" },
  {
         "nombre": "pajaros con mancuernas",
-	"descripcion":"Colócate de pie frente a un banco inclinado sosteniendo un par de mancuernas. Flexiona ligeramente tus rodillas y manten tu abdomen contraído. Agáchate lentamente hasta que tu frente toque la parte superior del banco. tus brazos deben estar colgados y sus palmas una frente a la otra. Levanta tus brazos lentamente hacia los lados. Para este ejercicio, concéntrate en usar la parte posterior de tus deltoides. Levanta las mancuernas hasta que tus brazos queden paralelos al suelo. Manten esta posición por un momento, luego baja lentamente las mancuernas.",
+	"descripcion":"Colócate de pie frente a un banco inclinado sosteniendo un par de mancuernas. Flexiona ligeramente tus rodillas y manten tu abdomen contraído. Agáchate lentamente hasta que tu frente toque la parte superior del banco.",
 	"musculo":"hombro",
       "imagen": "https://raw.githubusercontent.com/tomassm11/jsonDeporte/main/imagenes/pajaros_mancuernas.jpg" },
  {
@@ -52,12 +53,12 @@
      "imagen": "https://raw.githubusercontent.com/tomassm11/jsonDeporte/main/imagenes/press_pecho.jpg" },
  {
         "nombre": "press inclinado",
-	"descripcion":"El pectoral es uno de los músculos más entrenados por la gente que va al gimnasio con el objetivo de ganar masa muscular. Es una variante del press de banca clásico con un leve grado de inclinación para hacer algo más de énfasis en el haz clavicular del pectoral.",
+	"descripcion":"El pectoral es uno de los músculos más entrenados por la gente que va al gimnasio con el objetivo de ganar masa muscular.",
 	"musculo":"pecho",
      "imagen": "https://raw.githubusercontent.com/tomassm11/jsonDeporte/main/imagenes/press_inclinado.png" },
  {
         "nombre": "cruces en polea",
-	"descripcion":"Como hemos dicho anteriormente, el cruce de poleas es un ejercicio que solicita principalmente el trabajo del pecho, es decir, los pectorales mayores. Si elevamos más los brazos y cambiamos el ángulo de inclinación del torso estaremos trabajando diferentes haces del pectoral mayor.",
+	"descripcion":"Como hemos dicho anteriormente, el cruce de poleas es un ejercicio que solicita principalmente el trabajo del pecho, es decir, los pectorales mayores.",
 	"musculo":"pecho",
      "imagen": "https://raw.githubusercontent.com/tomassm11/jsonDeporte/main/imagenes/cruces_polea.jpg" },
  {
@@ -67,45 +68,42 @@
      "imagen": "https://raw.githubusercontent.com/tomassm11/jsonDeporte/main/imagenes/sentadilla.jpg" },
 {
         "nombre": "sentadilla bulgara",
-	"descripcion":"La sentadilla búlgara, también llamada split con elevación de pierna, es un ejercicio ideal para trabajar el tren inferior y tonificar las piernas y los glúteos rápidamente. Consiste, básicamente, en colocar la punta de un pie sobre un banco y flexionar la otra pierna hasta que quede paralela con el suelo.",
+	"descripcion":"La sentadilla búlgara, también llamada split con elevación de pierna, es un ejercicio ideal para trabajar el tren inferior y tonificar las piernas y los glúteos rápidamente,consiste, básicamente, en colocar la punta de un pie sobre un banco y flexionar la otra pierna hasta que quede paralela con el suelo.",
 	"musculo":"pierna",
       "imagen": "https://raw.githubusercontent.com/tomassm11/jsonDeporte/main/imagenes/sentadilla_bulgara.png" },
  {
         "nombre": "extension de cuadriceps",
-	"descripcion":"También llamado extensión de pierna, este ejercicio se concentra en el aislamiento de los cuádriceps, es decir, la parte frontal de tu muslo. Es este músculo el que cargará el peso mientras realizas un movimiento sencillo que ocurre en una sola articulación, en este caso, tu rodilla, la cual debes extender y flexionar.",
+	"descripcion":"También llamado extensión de pierna, este ejercicio se concentra en el aislamiento de los cuádriceps, es decir, la parte frontal de tu muslo,este músculo el que cargará el peso mientras realizas un movimiento sencillo que ocurre en una sola articulación, en este caso, tu rodilla, la cual debes extender y flexionar.",
 	"musculo":"pierna",
      "imagen": "https://raw.githubusercontent.com/tomassm11/jsonDeporte/main/imagenes/extension_cuadriceps.jpg" },
  {
         "nombre": "peso muerto",
-	"descripcion":"El peso muerto es un ejercicio básico, que desarrolla la fuerza en la cadena muscular posterior, extensora, involucrando en su realización el tren inferior, la cadera, el tronco y zona media, la cintura escapular y los brazos. Es un ejercicio importante para desarrollar estabilidad en el tronco.",
+	"descripcion":"El peso muerto es un ejercicio básico, que desarrolla la fuerza en la cadena muscular posterior, extensora, involucrando en su realización el tren inferior, la cadera, el tronco y zona media, la cintura escapular y los brazos.",
 	"musculo":"pierna",
      "imagen": "https://raw.githubusercontent.com/tomassm11/jsonDeporte/main/imagenes/peso_muerto.png" },
  {
         "nombre": "peso muerto con mancuernas",
-	"descripcion":"El peso muerto rumano con mancuernas es un ejercicio de piernas y glúteos dominante de cadera y sirve para trabajar principalmente la zona posterior de los muslos. Tanto los isquiotibiales como los glúteos. También trabaja durante todo el ejercicio los músculos de la espalda.",
+	"descripcion":"El peso muerto rumano con mancuernas es un ejercicio de piernas y glúteos dominante de cadera y sirve para trabajar principalmente la zona posterior de los muslos.",
 	"musculo":"pierna",
      "imagen": "https://raw.githubusercontent.com/tomassm11/jsonDeporte/main/imagenes/peso_muerto_mancuernas.jpg" },
  {
         "nombre": "femoral sentado",
-	"descripcion":"El curl femoral se centra principalmente en el trabajo de los isquiotibiales, que son uno de los tres músculos posteriores comprendidos entre la cadera y la rodilla. Junto con los glúteos y los gemelos, los isquiotibiales proporcionan funcionalidad corporal, estabilidad muscular y simetría, además de contribuir significativamente al rendimiento deportivo.",
+	"descripcion":"El curl femoral se centra principalmente en el trabajo de los isquiotibiales, que son uno de los tres músculos posteriores comprendidos entre la cadera y la rodilla.",
 	"musculo":"pierna",
       "imagen": "https://raw.githubusercontent.com/tomassm11/jsonDeporte/main/imagenes/femoral_sentado.jpg" },
  {
         "nombre": "remo al pecho",
-	"descripcion":"El remo con barra es un ejercicio de espalda multiarticular. En este ejercicio trabajaremos la espada en su totalidad y nos permitirá utilizar grandes pesos.
-                       Se recomienda realizar al inicio del entrenamiento cuando estamos más frescos, lo cual nos permitirá utilizar más peso. Además, la técnica es muy importante en este ejercicio para evitar lesiones y es más fácil mantener una adecuada técnica si estamos descansados.",
+	"descripcion":"El remo con barra es un ejercicio de espalda multiarticular. En este ejercicio trabajaremos la espada en su totalidad y nos permitirá utilizar grandes pesos.",
 	"musculo":"espalda",
      "imagen": "https://raw.githubusercontent.com/tomassm11/jsonDeporte/main/imagenes/remo_pecho.jpg" },
  {
         "nombre": "remo con mancuernas",
-	"descripcion":"El remo simple con mancuerna es un ejercicio para fortalecer la espalda. Suele utilizarse mucho en el mundo del fitness y también puede llevarse a cabo con barra. Este ejercicio no puede faltar en una buena rutina de espalda, principalmente se trabaja la dorsal, aunque también implica otros músculos.",
+	"descripcion":"El remo simple con mancuerna es un ejercicio para fortalecer la espalda. do del fitness y también puede llevarse a cabo con barra.",
 	"musculo":"espalda",
      "imagen": "https://raw.githubusercontent.com/tomassm11/jsonDeporte/main/imagenes/remo_pecho_mancuernas.jpg"},
  {
         "nombre": "jalon al pecho",
-	"descripcion":"El jalón al pecho es uno de los mejores ejercicios para ensanchar la espalda, ideal para desarrollar el dorsal ancho y conseguir la tan ansiada espalda en forma de V.
-
-Los dorsales, también conocidos comúnmente como “alas”, son uno de los músculos más grandes de la espalda y son responsables de la aducción y extensión del hombro, lo que ayuda a tirar de los brazos hacia el cuerpo y hacia atrás.",
+	"descripcion":"El jalón al pecho es uno de los mejores ejercicios para ensanchar la espalda, ideal para desarrollar el dorsal ancho y conseguir la tan ansiada espalda en forma de V.",
 	"musculo":"espalda",
      "imagen": "https://raw.githubusercontent.com/tomassm11/jsonDeporte/main/imagenes/jalon_pecho.jpg" }
  
